@@ -1,16 +1,14 @@
-# Data Analytics Internship Project
-
-## Project Overview
+# Data Analytics Internship Project Overview
 This project consists of an exploratory data analysis for potato chip sales of a grocery store.
 
 Transaction and consumer segmentation data are examined to gain insights for organizational improvement.
 
-## Objectives
+# Objectives
 - Analyze Consumer Transaction Data.
 - Extrapolate Essential Business Metrics.
 - Investigate key trends on consumer segments. 
 
-## Results
+# Results
 #### Sales Metrics Insights
 - Total Sales Revenue: $1,819,778.40
 - Total Bags sold: 475,909 bags
@@ -38,7 +36,7 @@ Transaction and consumer segmentation data are examined to gain insights for org
 - Sales promotions need to take place starting just before December holiday season. 
 
 
-## Process
+# Process
 ```mermaid
 flowchart TD
 start(((START)))
