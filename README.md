@@ -42,3 +42,44 @@ Transaction and consumer segmentation data are examined to gain insights for org
 ```mermaid
 flowchart TD
 start(((START)))
+data_preparation[Data Preparation]
+import[Import: Transaction Dataset]
+data_preprocessing[Data Preprocessing]
+check[Check Null Values & Duplicates]
+check_product[Examine Product Names]
+improve_data_quality[Improved Data Quality]
+import2[Import: Purchase Behaviour Dataset]
+check2[Check Null Values & Duplicates]
+integration[Data Integration]
+explore[Data Exploration]
+outlier[Outlier Detection & Removal]
+sales[Sales Metrics]
+customer_segmentation[Customer Segmentation Analysis]
+product_type[Product Type Sales Analysis]
+size[Product Size & Quantity Analysis]
+brand[Product Brand Analysis]
+high[High Ticket Items Analysis]
+strategy[Strategy Recommendations]
+finish(((END)))
+
+start --> data_preparation
+data_preparation --> import
+import --> data_preprocessing
+data_preprocessing --> check
+check --> check_product
+check_product --> improve_data_quality
+improve_data_quality --> import2
+import2 --> check2
+check2 --> integration
+integration --> explore
+explore --> outlier
+outlier --> sales
+sales --> customer_segmentation
+customer_segmentation --> product_type
+product_type --> size
+size --> brand
+brand --> high
+high --> strategy
+strategy --> finish
+
+
