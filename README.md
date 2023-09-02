@@ -9,7 +9,7 @@ Transaction and consumer segmentation data are examined to gain insights for org
 - Investigate key trends on consumer segments. 
 
 # Results
-#### Sales Metrics Insights
+#### Sales Metrics Insights:
 - Total Sales Revenue: $1,819,778.40
 - Total Bags sold: 475,909 bags
 - The average revenue received per bag: $3.82
