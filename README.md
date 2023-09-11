@@ -27,7 +27,8 @@ Average Purchase Price: 3.69
 Standard Deviation: 0.0067
 Sample Size: 27,104
 
-![image](https://github.com/frantzalexander/Internship-Quantium/assets/128331579/4f6890d6-241b-42c0-af9a-49b3cb3dbff9)
+![image](https://github.com/frantzalexander/Internship-Quantium/assets/128331579/c9b8c397-f66d-45e4-b6b4-0b7a6982d535)
+
 - Difference in sample segment average purchase price : $0.34
 - Sampling Standard Deviation: 0.0088
 
