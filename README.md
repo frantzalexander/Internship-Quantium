@@ -35,11 +35,17 @@ Sample Size: 27,104
 The 95% confidence interval for the average purchase price was between: $0.32 and $0.36
 
 Significance Level: 5%
+
+
 Null Hypothesis: We assume that there is no significant difference between the segments. 
+
+
 Alternative Hypothesis: There is a significant difference. 
 
 
 Conclusion: Reject the null hypothesis with a p-value result close to 0.  
+
+
 - There is a significant difference in the average purchase price between the two customer segments. 
 
 ## Strategy Recommendation
