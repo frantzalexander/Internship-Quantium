@@ -19,15 +19,23 @@ Transaction and consumer segmentation data are examined to gain insights for org
 ### A/B Test: Mainstream Young to Midage Customers vs Budget & Premium Young to Midage Customers
 #### Mainstream Young to Midage Customer Segment:
 Average Purchase Price: 4.03
+
+
 Standard Deviation: 0.0058
+
+
 Sample Size: 30,905
 
 #### Budget & Premium Young to Midage Customer Segment:
 Average Purchase Price: 3.69
+
+
 Standard Deviation: 0.0067
+
+
 Sample Size: 27,104
 
-![image](https://github.com/frantzalexander/Internship-Quantium/assets/128331579/c9b8c397-f66d-45e4-b6b4-0b7a6982d535)
+
 
 - Difference in sample segment average purchase price : $0.34
 - Sampling Standard Deviation: 0.0088
@@ -42,6 +50,8 @@ Null Hypothesis: We assume that there is no significant difference between the s
 
 Alternative Hypothesis: There is a significant difference. 
 
+
+![image](https://github.com/frantzalexander/Internship-Quantium/assets/128331579/c9b8c397-f66d-45e4-b6b4-0b7a6982d535)
 
 Conclusion: Reject the null hypothesis with a p-value result close to 0.  
 
