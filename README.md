@@ -21,7 +21,7 @@ Transaction and consumer segmentation data are examined to gain insights for org
 ### A/B Test: Customer Segments
 
 
-#### Mainstream Young to Midage Customer Segment:
+#### Mainstream Customer Segment: Young to Midage 
 Average Purchase Price: 4.03
 
 
@@ -31,7 +31,7 @@ Standard Deviation: 0.0058
 Sample Size: 30,905
 
 
-#### Budget & Premium Young to Midage Customer Segment:
+#### Budget & Premium Customer Segment: Young to Midage 
 Average Purchase Price: 3.69
 
 
@@ -41,13 +41,16 @@ Standard Deviation: 0.0067
 Sample Size: 27,104
 
 ---
-
+#### Confidence Intervals
 
 - Difference in sample segment average purchase price : $0.34
 - Sampling Standard Deviation: 0.0088
 
 The 95% confidence interval for the average purchase price was between: $0.32 and $0.36
 
+---
+
+#### Hypothesis Testing
 Significance Level: 5%
 
 
@@ -59,10 +62,11 @@ Alternative Hypothesis: There is a significant difference.
 
 ![image](https://github.com/frantzalexander/Internship-Quantium/assets/128331579/c9b8c397-f66d-45e4-b6b4-0b7a6982d535)
 
-Conclusion: Reject the null hypothesis with a p-value result close to 0.  
-
-
-- There is a significant difference in the average purchase price between the two customer segments. 
+Conclusion: Reject the null hypothesis.  
+- The difference in the sample average purchase price was $0.34.
+- This is extremely unlikely to occur under the assumption that the null hypothesis is correct.
+- The resulting p-value for such a occurance is close to 0.   
+- Therefore, we assume that there is a significant difference in the average purchase price between the two customer segments. 
 
 ## Strategy Recommendation
 ### Lifestage Segments:
